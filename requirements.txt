@@ -1,4 +1,4 @@
 streamlit
 mysql
-dotenv
+python-dotenv
 google-generativeai
